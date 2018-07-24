@@ -7,6 +7,8 @@ This project is a fun little demo of a genetic algorithm. A population of rocket
 
 In that project, you can play with some rockets that want to get to the target, your job is put an obstacle and see them autoevolving finding its own path!
 
+[Try by yourself! - Game Link](https://jbezerra.github.io/Smart-Rockets/index.html)
+
 # How it works?
 The rockets will learn how to get to the target point autoenvolving.
 In short, in that genetic algorithm, we create a generation of rockets that moves randomly.
